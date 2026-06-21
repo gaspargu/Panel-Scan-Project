@@ -21,7 +21,7 @@ The system was designed to operate reliably even in low-connectivity environment
 
 The solution consists of three main components:
 
-### Mobile Application
+### Mobile Application (React)
 
 A mobile application used by field operators and drivers to scan and register vehicle dashboard information.
 
@@ -35,7 +35,7 @@ A mobile application used by field operators and drivers to scan and register ve
 
 ---
 
-### Backend Platform
+### Backend Platform (FastAPI)
 
 A centralized backend system responsible for processing and storing all incoming operational data.
 
@@ -49,7 +49,7 @@ A centralized backend system responsible for processing and storing all incoming
 
 ---
 
-### Analytics Dashboard
+### Analytics Dashboard (PowerBI)
 
 A monitoring dashboard developed for operational visibility and alert management.
 
